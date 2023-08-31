@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorChecker</string>
+    <string name="BOT_TOKEN" translatable="false">6582665551:AAE4NbpBTxHGLlbSry6pu0xwd6F-JLav2ls</string>
+</resources>
